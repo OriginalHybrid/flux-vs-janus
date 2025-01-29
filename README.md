@@ -33,8 +33,10 @@ Prompt:
 
 ### Sample 3: Intense Portrait of a Young Woman
 
-Description:
+Prompt:
+```plaintext
 An emotionally impactful portrait of a young woman with striking, piercing eyes that convey a deep sense of intensity and life experience. She wears a weathered, rust-colored headscarf that frames her face, with subtle imperfections in the fabric adding a sense of realism and history. The background is a muted green, which contrasts with the warmth of her clothing and enhances the vividness of her gaze. The lighting should be natural and soft, emphasizing the texture of her skin and the raw emotion in her expression, creating an image that tells a story of resilience and strength.
+```
 
 ![Emotional Portrait](images/emotional_portrait_sample.png)
 
